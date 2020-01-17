@@ -3,12 +3,12 @@
 **App for Food Booking** [![Build Status](https://github.com/Josiahmpokera)]
 
 ## Some Screen Short  :+1:	   👍 :+1:
-<img src="Screenshot_1579224179" height="300em" /> <img src="Screenshot_1579224185" height="300em" /> <img src="Screenshot_1579224189" height="300em" /> <img src="Screenshot_1579224193" height="300em" /> <img src="Screenshot_1579224201" height="300em" />
+<img src="Screenshot_1579224179.png" height="300em" /> <img src="Screenshot_1579224185.png" height="300em" /> <img src="Screenshot_1579224189.png" height="300em" /> <img src="Screenshot_1579224193.png" height="300em" /> <img src="Screenshot_1579224201.png" height="300em" />
 
 
 ## What does this Application do?
 
-This App is For Restaurant Ordering .
+This App is For Restaurant Ordering..
 
  **Steps to Get Started**
  - Open the App
