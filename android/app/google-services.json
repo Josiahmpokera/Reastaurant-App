@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "795463510547",
+    "firebase_url": "https://mashapp-44475.firebaseio.com",
+    "project_id": "mashapp-44475",
+    "storage_bucket": "mashapp-44475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795463510547:android:db7cb231e5fde3f1cd6de6",
+        "android_client_info": {
+          "package_name": "com.feedme.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795463510547-i3ffd4tbpv8hb0k6rpu805i2nebif6mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaviCFtwpc2olYbCaR-0oyLYXxA9L4sAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795463510547-i3ffd4tbpv8hb0k6rpu805i2nebif6mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
